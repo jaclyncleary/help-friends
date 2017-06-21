@@ -9,7 +9,7 @@ You will be given a number from 1 to 4 -- just edit your paragraph. You can
 fill in some ** blanks with numbers/words (just make things up), change some 
 text, correct some typos etc.
 
-Person 1:
+Person 1: SARAH
 "With a Little Help from My Friends" is a song by the Beatles, written by 
 Paul McCartney and and and John **, from the album Sgt. Pepper's Lonely Hearts 
 Club Band issued worldwide in June **. The song was written for and sung by 
