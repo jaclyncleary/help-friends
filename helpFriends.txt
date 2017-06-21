@@ -1,5 +1,9 @@
 Kendra was here!
 
+
+Hi Kendra -- matt here
+
+
 Some example text for an exercise, taken from Wikipedia.
 
 You will be given a number from 1 to 4 -- just edit your paragraph. You can 
@@ -50,5 +54,4 @@ The song's composition is unusually well documented as Matt was
 present and described the writing process in the Beatles' official biography. 
 The song is partly in the form of a ballad in which the other three 
 Beatles sing a question - e.g. "Would you believe in a love at first sight?" 
-where Starr answers, "Yes, I'm ***." ***...
-
+where Starr answers, "Yes, I'm crazy."
